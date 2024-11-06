@@ -7,9 +7,6 @@
 main:
   - title: "Publications"
     url: /publications/
-        
-  - title: "Project"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
