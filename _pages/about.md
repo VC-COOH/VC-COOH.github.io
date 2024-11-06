@@ -21,3 +21,15 @@ Post-punk,shoegaze and Midwest emo are my favorite.
 In fact,I can play the piano,but it is not something I proficient in,too.
 
 There's nothing to talk about.
+
+(我试试可不可以写中文)
+
+
+What else do I want to learn?
+======
+*Renpy & RPG Maker MV
+*Discrete mathematics
+*JavaScript
+
+
+
