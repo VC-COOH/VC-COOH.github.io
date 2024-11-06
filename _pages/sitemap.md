@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+This site is a half-finished one, still in the making.
+
+Do not continue browsing.
 
 <h2>Pages</h2>
 {% for post in site.pages %}
