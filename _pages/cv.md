@@ -17,11 +17,11 @@ Education
 
 Work experience
 ======
-* 2023-now
+* 2023-Now
   * Leader of RKU(Railway Knight Union，A student-led campus club with teacher support)
-  * RPG game: Orange Cosmic Paradox (using JavaScript)
+  * RPG game: Orange Cosmic Paradox (using JavaScript) & CLOZE KSS series
 
-* 2024-now
+* 2024-Now
   * Student Club Management and Service Center of SICAU
   * Media Center of SICAU Resource College 
   
