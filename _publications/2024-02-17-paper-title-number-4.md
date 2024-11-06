@@ -1,5 +1,5 @@
 ---
-title: I haven't published a paper yet and hope to do so in the future.
+title: "I haven't published a paper yet and hope to do so in the future."
 collection: publications
 category: Journal 1
 permalink: /publication/2024-02-17-paper-title-number-4
