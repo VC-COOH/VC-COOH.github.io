@@ -28,7 +28,9 @@ There's nothing to talk about.
 What else do I want to learn?
 ======
 *Renpy & RPG Maker MV
+
 *Discrete mathematics
+
 *JavaScript
 
 
