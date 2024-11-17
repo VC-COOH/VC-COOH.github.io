@@ -22,7 +22,7 @@ In fact,I can play the piano,but it is not something I proficient in,too.
 
 There's nothing to talk about.
 
-(我试试可不可以写中文)
+(这篇文章充满了愚昧的气息，首先是我的英语水平肯定没有达到学术英语的境地，其次是我根本没有学术和作品，前端是一窍不通的，git更是不会用了……大家看看就行，以后会清零整改的！)
 
 
 What else do I want to learn?
