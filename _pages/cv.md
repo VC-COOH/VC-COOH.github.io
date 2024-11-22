@@ -30,6 +30,5 @@ Skills
 * programming
   * Python : Renpy
   * C++
-  * Rust
 * Creative writing
 * Literature of Theatre Film & Television
